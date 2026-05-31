@@ -11,34 +11,7 @@
 ### 🏆 Certificações 
 
 <p align="center">
-  <!-- Substitua o link do 'src' pelo endereço da imagem da sua badge no Credly -->
-  <a href="https://www.credly.com/badges/b9b1ce6d-0b34-48c5-a645-ca1d038f2cd0" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="110" alt="AWS Certified SysOps Administrator" />
-  </a>
-  <a href="https://www.credly.com/badges/ae95f12f-e1ed-4041-a87f-f82d90ba709b" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" alt="AWS Certified Developer Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/03575fc9-583f-41b4-bcea-c73ec0310441" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect" />
-  </a>
-  <a href="https://www.credly.com/badges/73a132da-0df9-40e1-b9df-9d74cffe8727" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS Certified AI Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/e4266d34-3273-434b-bd20-9b01a763938f" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/fbd96bd3-1a2f-4165-b342-384dec1fe2cf" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/67ab2ebb-2cf9-4150-a29d-a109bb94fc2b/image.png" width="110" alt="AWS Cost Optimization Workshop" />
-  </a>
-  <a href="https://www.credly.com/badges/25b5f34a-08e1-4868-b258-4931657a614f" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="110" alt="Microsoft Certified Azure Administrator" />
-  </a>
-  <a href="https://www.credly.com/badges/d4e66620-1492-4454-9fab-386004583621" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="110" alt="Microsoft Certified Azure Fundamentals" />
-  </a>
-  <a href="https://www.credly.com/badges/a7e0bfda-9020-453f-873e-a772fc666dcf" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="110" alt="Terraform Associate" />
-  </a>
+  <a href="https://www.credly.com/badges/b9b1ce6d-0b34-48c5-a645-ca1d038f2cd0" target="_blank"><img src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="110" alt="AWS Certified SysOps Administrator" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/ae95f12f-e1ed-4041-a87f-f82d90ba709b" target="_blank"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="110" alt="AWS Certified Developer Associate" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/03575fc9-583f-41b4-bcea-c73ec0310441" target="_blank"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/73a132da-0df9-40e1-b9df-9d74cffe8727" target="_blank"><img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS Certified AI Practitioner" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/e4266d34-3273-434b-bd20-9b01a763938f" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/fbd96bd3-1a2f-4165-b342-384dec1fe2cf" target="_blank"><img src="https://images.credly.com/size/680x680/images/67ab2ebb-2cf9-4150-a29d-a109bb94fc2b/image.png" width="110" alt="AWS Cost Optimization Workshop" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/25b5f34a-08e1-4868-b258-4931657a614f" target="_blank"><img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="110" alt="Microsoft Certified Azure Administrator" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/d4e66620-1492-4454-9fab-386004583621" target="_blank"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="110" alt="Microsoft Certified Azure Fundamentals" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/badges/a7e0bfda-9020-453f-873e-a772fc666dcf" target="_blank"><img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="110" alt="Terraform Associate" /></a>
 </p>
 
 ---
@@ -88,15 +61,6 @@ Além da minha atuação corporativa, desenvolvo e mantenho aplicações web uti
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
-</p>
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaque21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaque21&layout=compact&langs_count=6&theme=dracula"/>
 </p>
 
 ---
