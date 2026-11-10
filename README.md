@@ -1,9 +1,9 @@
 <h1 align="center">Isaque Alcantara, sim. Sou eu! 👋</h1>
 
-<h3 align="center">Cloud & Systems Analyst | AWS (5x) & Azure (2x) Certified | Terraform Associate</h3>
+<h3 align="center">Cloud & Systems Analyst | AWS (6x) & Azure (2x) Certified | Terraform Associate</h3>
 
 <p align="center">
-  Com mais de 18 anos de experiência em TI, sou focado em fornecer ambientes robustos, seguros e com otimização de custos na nuvem. Tenho orgulho da minha capacidade de traduzir desafios técnicos complexos em soluções práticas que geram valor real para os negócios.
+  Com mais de 19 anos de experiência em TI, sou focado em fornecer ambientes robustos, seguros e com otimização de custos na nuvem. Tenho orgulho da minha capacidade de traduzir desafios técnicos complexos em soluções práticas que geram valor real para os negócios.
 </p>
 
 ---
